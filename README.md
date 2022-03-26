@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vgb95
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Python
 
 - 📫 How to reach me, feel free to contact me on valentingb19@gmail.com
